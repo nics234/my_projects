@@ -1,1 +1,1 @@
-In this Project i build a Generative Adverserial Network to generate "fake" images of random peoples faces. 
+Within this Project the task was to generate a fictive Script for a TV Series. At first the task was to build a LSTM Modell and then to generate random dialogs between the main characters of the show. 
