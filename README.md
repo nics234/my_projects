@@ -9,4 +9,4 @@ The following projects are done in Python:
 - Deep Learning 
 - Kaggle Challenge churn
 - Stock Market prediction
-- 
+- Product Performance Analysis
